@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Noolbar Docs</title>
+    <link>https://noolbar.github.io/index.xml</link>
+    <description>Recent content on Noolbar Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <copyright>All right reserved in Noolbar team</copyright>
+    <lastBuildDate>Wed, 23 Nov 2016 00:00:19 +0900</lastBuildDate>
+    <atom:link href="https://noolbar.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Noolbar Overview</title>
+      <link>https://noolbar.github.io/</link>
+      <pubDate>Wed, 23 Nov 2016 00:00:19 +0900</pubDate>
+      
+      <guid>https://noolbar.github.io/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;世界最小の複合機( パーソナルマルチファンクションプリンタ )&lt;/strong&gt;&lt;br /&gt;
+Noolbarは,印刷と管理を行うインテグレーションツールです.対象の形状に捉われずイメージをそのまま印刷し,アナログとデジタルをシームレスにまとめます.
+&lt;img src=&#34;https://noolbar.github.io/images/assembly_smartphone_printer.png&#34; alt=&#34;printer&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+
+&lt;p&gt;印刷サービスの歴史は,活版印刷から大量印刷が始まり,印刷の多様な需要と活字式のインパクトプリンタにより,大規模な印刷所でしか行えなかった印刷が小規模な印刷所行えるようになりました.
+現在では,印刷情報のデジタル化とワープロ,PCの普及により型組ソフトを使ってオフィスプリンタを使うことは特別なことではなくなっています.&lt;br /&gt;
+しかし,印刷が身近になるに連れて様々な問題が発生するようになりました.今までの印刷機では対応することが難しかった個人用途に適したした印刷機器が,Noolbar ( ヌールバー ) です.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;プリンタの新しい形&lt;br /&gt;
+従来の大型のプリンタと違いNoolbarは,必要な部分を必要なときに必要なところに必要な量だけ印刷を行うことができます.ペン,スタンプ,テンプレートのように従来の筆記具の延長として文章,イラスト,グラフ,模様など書きたいものを書きたいところに書くことができます.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;コピー機の新しい形&lt;br /&gt;
+頻繁に更新されるプロジェクト概要を会議毎に全員に配り,終了後にシュレッタにかけられるような無駄をなくします.古い資料にNoolbarをかざすことで,資料の種類を判別し,更新された最新の情報を参加者に提示し印刷することができます.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;スキャナの新しい形&lt;br /&gt;
+膨大な資料の全体を紙面として残す必要がなく,必要なときに引き出すことができます.必要な紙面だけを手元に残しておき,これにNoolbarをかざすことでその他全体の資料を表示することができます.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;文書管理システムの新しい形&lt;br /&gt;
+個人や組織で様々なドキュメント管理ソフトの導入が行われていますが,紙面での利用資料が多く,電子化の恩恵を受けられていない様々ケースが存在しています.業務フローや時系列に沿った紐付けを行うことで,手元にある書類が他のどの書類に関連して作成されたものであるかを明確にします.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;決裁の新しい形&lt;br /&gt;
+稟議のルートが複雑で電子決裁システムが対応しきれていない場合や,担当毎に特別な資料を用意し持ち回り説明を行う必要があるような無駄をなくします.決裁をNoolbarによるサインにすることで修正内容と書類進捗を電子データに反映させ,変更部分を担当者に通知し進捗によって変化する紙面と電子データの同期を取ります.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;ファイル共有の新しい形&lt;br /&gt;
+誰も手を付けられない状態に陥った共有ファイルサーバに変わり,プロジェクトに新しく参加したメンバーに対して属人的な暗黙のルールによって必要となっている資料を提示します.だれも暗黙のルールを把握していないような状況においてでも,関係者すべてに明確な規則や関連資料を内容を明らかにすることができます.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;!--- ## Design 
+## 連動するソフトウェア
++ Microsoft Office  
+excel, word VSTO
+
++ 富士ゼロックス DocuWorks  
+450万のライセンスを販売している,大手ドキュメント管理ソフト
+
++ evernote  
+500万ライセンスの販売実績.海外ベンチャー発
+
++ Adobe Acrobat  
+ PDFの代表的なソフトウェア.累計出荷5億本
+
+---&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
