@@ -2,31 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Noolbar Docs</title>
-    <link>https://noolbar.github.io/index.xml</link>
+    <link>https://noolbar.github.io/nbOverview/index.xml</link>
     <description>Recent content on Noolbar Docs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
     <copyright>All right reserved in Noolbar team</copyright>
     <lastBuildDate>Wed, 23 Nov 2016 00:00:19 +0900</lastBuildDate>
-    <atom:link href="https://noolbar.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://noolbar.github.io/nbOverview/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Noolbar Overview</title>
-      <link>https://noolbar.github.io/</link>
+      <link>https://noolbar.github.io/nbOverview/</link>
       <pubDate>Wed, 23 Nov 2016 00:00:19 +0900</pubDate>
       
-      <guid>https://noolbar.github.io/</guid>
+      <guid>https://noolbar.github.io/nbOverview/</guid>
       <description>
 
 &lt;p&gt;&lt;strong&gt;世界最小の複合機( パーソナルマルチファンクションプリンタ )&lt;/strong&gt;&lt;br /&gt;
 Noolbarは,印刷と管理を行うインテグレーションツールです.対象の形状に捉われずイメージをそのまま印刷し,アナログとデジタルをシームレスにまとめます.
-&lt;img src=&#34;https://noolbar.github.io/images/assembly_smartphone_printer.png&#34; alt=&#34;printer&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;https://noolbar.github.io/nbOverview/images/assembly_smartphone_printer.png&#34; alt=&#34;printer&#34; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 
 &lt;p&gt;印刷サービスの歴史は,活版印刷から大量印刷が始まり,印刷の多様な需要と活字式のインパクトプリンタにより,大規模な印刷所でしか行えなかった印刷が小規模な印刷所行えるようになりました.
 現在では,印刷情報のデジタル化とワープロ,PCの普及により型組ソフトを使ってオフィスプリンタを使うことは特別なことではなくなっています.&lt;br /&gt;
-しかし,印刷が身近になるに連れて様々な問題が発生するようになりました.今までの印刷機では対応することが難しかった個人用途に適したした印刷機器が,Noolbar ( ヌールバー ) です.&lt;/p&gt;
+しかし,印刷が身近になるに連れて様々な問題が発生するようになりました.今までの印刷機では対応することが難しかった個人用途に適したした印刷機器が,Noolbar ( ヌールバー ) です.
+ 今まで複数のデバイスを用いて行っていた様々な作業をまとめ,Noolbarを通してより&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;プリンタの新しい形&lt;br /&gt;
